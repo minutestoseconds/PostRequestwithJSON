@@ -10,7 +10,8 @@ import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.POST;
 
 public interface FeedbackService {
-    //    email_id           : req.body.email_id,
+
+    //email_id           : req.body.email_id,
 //    event_name         : req.body.event_name,  // list drop down
 //    event_food         : req.body.event_food,
 //    event_decoration   : req.body.event_decoration,
