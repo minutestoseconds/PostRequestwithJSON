@@ -12,7 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".EditMembersActivity"></activity>
+        <activity android:name=".DeleteMembersActivity" />
+        <activity android:name=".SignUpActivity" />
         <activity android:name=".FeedbackActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
